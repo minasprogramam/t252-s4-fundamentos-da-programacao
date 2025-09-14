@@ -3,7 +3,7 @@
 
 oi, mina :) 
 
-esse é o repositório base do curso Fundamentos da Programação da semana SX.
+esse é o repositório base do curso Fundamentos da Programação da semana S4.
 
 *você não deve clonar diretamente este repositório.*
 faça um fork para ter sua própria cópia, onde poderá adicionar suas respostas, códigos e anotações.
