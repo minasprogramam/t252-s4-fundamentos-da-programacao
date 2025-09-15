@@ -55,5 +55,5 @@ mantenha os nomes de arquivos e pastas organizados (exemplo: exercicio1.ts, exer
 💡 dicas
 
 * não edite diretamente o repositório original. desenvolva sempre no seu fork. 
-* você pode compartilhar o link do seu fork com os professores e colegas.
-* se tiver dúvidas com git e github, estaremos á disposição :)
+* você pode compartilhar o link do seu fork com as professoras e colegas.
+* se tiver dúvidas com git e github, estaremos à disposição. :)
