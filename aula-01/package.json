@@ -1,0 +1,17 @@
+{
+  "name": "aula-01",
+  "version": "1.0.0",
+  "description": "## 📖 resumo > Escreva aqui um resumo dos principais pontos abordados na aula.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.8.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
