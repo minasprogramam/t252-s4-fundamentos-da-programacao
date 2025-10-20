@@ -31,9 +31,7 @@ const canaisPopulares = videos
 console.log(canaisPopulares);
 
 // ### Exercício – map
-// Você recebeu um array de vídeos e precisa exibir apenas os nomes dos canais de todos os vídeos.
-// Voce deve usar o método map para criar um novo array apenas com os nomes dos canais.
-// Depois exiba no console o resultado do map.
+// precisa exibir apenas os nomes dos canais de todos os vídeos.
 
 const nomesDeCanais = videos.map((video)=> video.canal);
 console.log(nomesDeCanais);
@@ -86,8 +84,6 @@ const videosComMaisDislikes = videos.filter((video) => video.dislike === maxDisl
 console.log(videosComMaisDislikes);
 
 // ### Exercício – reduce
-
-// Agora é hora de somar e tirar conclusões sobre os dados!
 
 // - Parte A
 // Calcule o total de views somando o campo views de todos os vídeos.

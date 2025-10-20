@@ -41,8 +41,6 @@ Dica:
 
 ### Exercício – reduce
 
-Agora é hora de somar e tirar conclusões sobre os dados!
-
 - Parte A
 Calcule o total de views somando o campo views de todos os vídeos.
 
